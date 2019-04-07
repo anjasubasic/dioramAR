@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.11.2017 08:53:23
+
+newmtl spec__000000_0_Fabric_wf_14_LOON3749
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5451 0.1922 0.5176
+	Kd 0.5451 0.1922 0.5176
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./Color_1024.jpg
+	map_Kd ./Color_1024.jpg
+	map_bump ./Bumb_1024_normal_Normal_Bump.jpg
+
+newmtl spec__141414_0_Legs_wf_61_LOON3749
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0784 0.0784 0.0784
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./Bumb_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_LOON3749
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LOON3749_shadow_plane_v6.png
+	map_Kd ./LOON3749_shadow_plane_v6.png

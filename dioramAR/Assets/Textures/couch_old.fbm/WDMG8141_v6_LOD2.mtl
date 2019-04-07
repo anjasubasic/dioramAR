@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.12.2017 23:17:29
+
+newmtl spec__505050_22_01_Default_wf_91_WDMG8141
+	Ns 22.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.3137 0.3137 0.3137
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./wdmg8141_decora_asset_1_1024.jpg
+	map_Kd ./wdmg8141_decora_asset_1_1024.jpg
+
+newmtl spec__323232_19_02_Default_wf_93_WDMG8141
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1961 0.1961 0.1961
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./wdmg8141_decora_asset_3_1024.jpg
+	map_Kd ./wdmg8141_decora_asset_3_1024.jpg
+
+newmtl shadow_mtl_WDMG8141
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./WDMG8141_shadow_plane_v6.png
+	map_Kd ./WDMG8141_shadow_plane_v6.png

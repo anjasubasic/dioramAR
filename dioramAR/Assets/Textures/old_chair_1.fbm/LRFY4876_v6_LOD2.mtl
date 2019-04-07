@@ -1,0 +1,60 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.07.2018 02:13:38
+
+newmtl spec__050505_57_RooomyBasicFabric_wf_55_LRFY4876
+	Ns 57.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__050505_57_RooomyBasicFabric_wf_55_LRFY4876_Mix_Map__142.jpg
+	map_Kd ./spec__050505_57_RooomyBasicFabric_wf_55_LRFY4876_Mix_Map__142.jpg
+	map_bump ./LRFY4876_1_1024_normal_Normal_Bump.jpg
+
+newmtl spec__1e1e1e_70_RooomyBasicwood_wf_49_LRFY4876
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LRFY4876_2_1024.jpg
+	map_Kd ./LRFY4876_2_1024.jpg
+	map_bump ./LRFY4876_2_1024_normal_Normal_Bump.jpg
+
+newmtl spec__010101_98_RooomyStandard_wf_64_LRFY4876
+	Ns 99.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0039 0.0039 0.0039
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__010101_98_RooomyStandard_wf_64_LRFY4876_Bricks_____12.jpg
+	map_Kd ./spec__010101_98_RooomyStandard_wf_64_LRFY4876_Bricks_____12.jpg
+
+newmtl shadow_mtl_LRFY4876
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LRFY4876_shadow_plane_v6.png
+	map_Kd ./LRFY4876_shadow_plane_v6.png

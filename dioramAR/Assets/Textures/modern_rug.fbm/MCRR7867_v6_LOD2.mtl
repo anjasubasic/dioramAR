@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.10.2017 06:38:50
+
+newmtl spec__000000_100_rug_wf_18_MCRR7867
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.5529 0.1765
+	Kd 0.2000 0.5529 0.1765
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MCRR7867_60x96_(18100798)_8_1024.jpg
+	map_Kd ./MCRR7867_60x96_(18100798)_8_1024.jpg
+	map_bump ./spec__000000_100_rug_wf_18_MCRR7867_CompositeTexturemap_String_Normal_Bump.jpg
+
+newmtl shadow_mtl_MCRR7867
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MCRR7867_shadow_plane_v6.png
+	map_Kd ./MCRR7867_shadow_plane_v6.png

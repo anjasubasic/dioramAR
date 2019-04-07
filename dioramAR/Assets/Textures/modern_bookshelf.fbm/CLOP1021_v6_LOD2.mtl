@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.08.2017 19:56:01
+
+newmtl spec__2d2d2d_14_Wood_wf_46_CLOP1021
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5451 0.1922 0.5176
+	Kd 0.5451 0.1922 0.5176
+	Ks 0.1765 0.1765 0.1765
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./CLOP1021_wood_diffuse_v01_1024.jpg
+	map_Kd ./CLOP1021_wood_diffuse_v01_1024.jpg
+	map_Ks ./CLOP1021_wood_bump_v01_1024.jpg
+	map_bump ./CLOP1021_wood_bump_v01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__17120d_9_Chrome_wf_24_CLOP1021
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0078 0.0078
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.0902 0.0706 0.0510
+	Ke 0.0000 0.0000 0.0000

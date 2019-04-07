@@ -1,0 +1,66 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.06.2018 11:09:22
+
+newmtl spec__0d0d0d_79_Material_2142147592_wf_63_WADL4889
+	Ns 79.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0510 0.0510 0.0510
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__0d0d0d_79_Material_2142147592_wf_63_WADL4889_Color_Correction_Map__2138388983.jpg
+	map_Kd ./spec__0d0d0d_79_Material_2142147592_wf_63_WADL4889_Color_Correction_Map__2138388983.jpg
+
+newmtl spec__0d0d0d_79___wf_56_WADL4889
+	Ns 79.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8078 0.8078 0.8078
+	Kd 0.8078 0.8078 0.8078
+	Ks 0.0510 0.0510 0.0510
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__787878_85_Standard_1_wf_7_WADL4889
+	Ns 86.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0157 0.0157 0.0157
+	Kd 0.0157 0.0157 0.0157
+	Ks 0.4706 0.4706 0.4706
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__0f0f0f_4_Material_2142147598_wf_60_WADL4889
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0588 0.0588 0.0588
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_WADL4889
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./WADL4889_shadow_plane_v6.png
+	map_Kd ./WADL4889_shadow_plane_v6.png

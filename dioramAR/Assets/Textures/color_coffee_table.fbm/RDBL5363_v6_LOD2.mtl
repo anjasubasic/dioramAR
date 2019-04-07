@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.11.2017 10:59:22
+
+newmtl spec__000000_100_Glass_wf_82_RDBL5363
+	Ns 100.0000
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_100_SILVER_SH_wf_58_RDBL5363
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./RDBL5363_SILVER_DIFFUSE_V01_1024.jpg
+	map_Kd ./RDBL5363_SILVER_DIFFUSE_V01_1024.jpg
+	map_bump ./RDBL5363_SILVER_BUMP_V01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__1d1d1d_79_GOLD_SH_wf_24_RDBL5363
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1137 0.1137 0.1137
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__1d1d1d_79_GOLD_SH_wf_24_RDBL5363_CompositeTexturemap_String.jpg
+	map_Kd ./spec__1d1d1d_79_GOLD_SH_wf_24_RDBL5363_CompositeTexturemap_String.jpg
+	map_Ks ./spec__1d1d1d_79_GOLD_SH_wf_24_RDBL5363_CompositeTexturemap_String.jpg
+
+newmtl shadow_mtl_RDBL5363
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./RDBL5363_shadow_plane_v6.png
+	map_Kd ./RDBL5363_shadow_plane_v6.png

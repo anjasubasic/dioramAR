@@ -1,0 +1,42 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.03.2018 05:38:53
+
+newmtl spec__1e1e1e_72_RooomyBasicwood_wf_97_MCRW5847
+	Ns 73.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./mu_1024.jpg
+	map_Kd ./mu_1024.jpg
+
+newmtl spec__0f0f0f_78_RooomyBasicwood_wf_92_MCRW5847
+	Ns 78.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0078 0.0078
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.0588 0.0588 0.0588
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_MCRW5847
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MCRW5847_shadow_plane_v6.png
+	map_Kd ./MCRW5847_shadow_plane_v6.png

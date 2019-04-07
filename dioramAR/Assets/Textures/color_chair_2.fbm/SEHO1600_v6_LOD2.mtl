@@ -1,0 +1,56 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.05.2018 20:39:00
+
+newmtl spec__121212_63_Material_27_wf_43_SEHO1600
+	Ns 63.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0039 0.0039
+	Kd 0.0078 0.0039 0.0039
+	Ks 0.0706 0.0706 0.0706
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__121212_63_Material_27_wf_43_SEHO1600_Color_Correction_Map__3.jpg
+	map_Kd ./spec__121212_63_Material_27_wf_43_SEHO1600_Color_Correction_Map__3.jpg
+
+newmtl spec__121212_82_Material_26_wf_11_SEHO1600
+	Ns 82.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0000 0.0000
+	Kd 0.0039 0.0000 0.0000
+	Ks 0.0706 0.0706 0.0706
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__121212_82_Material_26_wf_11_SEHO1600_Color_Correction_Map__6.jpg
+	map_Kd ./spec__121212_82_Material_26_wf_11_SEHO1600_Color_Correction_Map__6.jpg
+
+newmtl spec__b9b9b9_85_Material_28_wf_4_SEHO1600
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.7255 0.7255 0.7255
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_SEHO1600
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./SEHO1600_shadow_plane_v6.png
+	map_Kd ./SEHO1600_shadow_plane_v6.png
